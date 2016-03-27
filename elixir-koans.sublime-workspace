@@ -1,0 +1,380 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"UI",
+				"Ui_Dialog"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "about_asserts.exs",
+			"settings":
+			{
+				"buffer_size": 922,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Elixir/elixir-mix-test.sublime-build",
+					""
+				],
+				[
+					"Packages/Elixir/elixir.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Elixir/elixir-mix-test.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 289.0,
+		"last_filter": "git sta",
+		"selected_items":
+		[
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 453.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ben.dixon/elixir-koans/.git/COMMIT_EDITMSG",
+		"/Users/ben.dixon/elixir-koans/elixir-koans.sublime-project",
+		"/Users/ben.dixon/elixir-koans/README.md",
+		"/Users/ben.dixon/exercism/elixir/.git/COMMIT_EDITMSG",
+		"/Users/ben.dixon/.gitconfig",
+		"/Users/ben.dixon/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/ben.dixon/exercism/elixir/bob/README.md",
+		"/Users/ben.dixon/pid-utf16le",
+		"/Users/ben.dixon/pid-utf16lebom",
+		"/Users/ben.dixon/pid.env",
+		"/Users/ben.dixon/Documents/ofsted email audit",
+		"/O/ICT/Y10 GCSE CS Submission/names.csv",
+		"//borasvr-mgmt1/Sources/Applications/Java/jre1.8.0_45_x64/install.bat",
+		"/C/Users/ben.dixon/AppData/LocalLow/Sun/Java/Deployment/deployment.properties",
+		"//g1-04/c$/Windows/Sun/Java/Deployment/deployment.properties",
+		"/C/Program Files (x86)/SIMS/SIMS .net/connect.ini",
+		"//borasvr-rds1/c$/Program Files (x86)/SIMS/SIMS .net/connect.ini",
+		"//borasvr-sims/c$/Program Files (x86)/SIMS/SIMS .net/connect.ini",
+		"/Z/Tech/Documents/laptop bitlocker/macosx-06.txt",
+		"/C/Program Files/SIMS/SIMS .net/connect.ini",
+		"//g4-01/c$/Users/mandy.gage/AppData/Roaming/Microsoft/Word/~WRA0000.asd",
+		"/E/Music Festival",
+		"/C/Users/ben.dixon/Dropbox/Apps/Voice Record Pro/3215 owen wellspring lhz.mp4.meta.txt",
+		"/C/connect.ini",
+		"//f157-01/c$/Program Files (x86)/SIMS/_SIMS .net/connect old.ini",
+		"//f157-01/c$/Program Files (x86)/SIMS/_SIMS .net/connect.ini",
+		"//f157-01/c$/Program Files (x86)/SIMS/SIMS .net/connect.ini",
+		"/Z/Tech/Documents/laptop bitlocker/bitlocker keys/mbawin8-51/BitLocker Recovery Key 7310AAC9-56B9-44D7-A7FA-4CC3D7658853.txt",
+		"/Z/Tech/Documents/laptop bitlocker/bitlocker keys/mbawin8-2/BitLocker Recovery Key 53C85C47-A7E8-4734-A6AA-06A6C63EF64B.txt",
+		"//borasvr-fp1/SHARED-ADMIN/Data/science corrections.txt",
+		"/Z/Tech/Documents/laptop bitlocker/bitlocker keys/mbawin8-73/BitLocker Recovery Key 37182C56-B087-4776-BC93-D481A0718C02.txt",
+		"/Z/Tech/Software/office.txt",
+		"/Z/Tech/Software/7.txt",
+		"//g1-02/c$/Program Files (x86)/SIMS/SIMS .net/connect.ini",
+		"//g6-01/c$/Program Files (x86)/SIMS/SIMS .net/connect.ini",
+		"/Z/Tech/Documents/laptop bitlocker/bitlocker keys/mbawin8-26/BitLocker Recovery Key 32742D05-7524-4C04-A9B0-60CB37D262E4.txt",
+		"/Z/Tech/Documents/laptop bitlocker/bitlocker keys/mbawin8-85/BitLocker Recovery Key B75CB371-4DE7-4953-AA78-FE546A7FAE7E.txt",
+		"//borasvr-mgmt1/SMS_BOR/Logs/chmgr.log",
+		"//f157-01/c$/Program Files (x86)/SIMS/SIMS .net/connect old.ini",
+		"/Z/Tech/Scripts/Scaling.ps1",
+		"//borasvr-sims/sims/connect.ini",
+		"//borasvr-sims/sims/connect_nontrusted.ini",
+		"/D/CLC E-Learning Resource/Content/Stage14/CL14050.xml",
+		"/D/x64/readme.htm",
+		"/D/autorun.inf",
+		"//borasvr-exmb1/d$/Exchange/RemoteScripts/ConsoleInitialize.ps1",
+		"/H/todo.txt",
+		"/H/disabledstaff.txt",
+		"/X/teachingstaff.txt",
+		"/X/supportstaff.txt",
+		"/X/corestaff.txt",
+		"/X/AllStaffCut.txt",
+		"/X/AllStaffTrimmed.txt",
+		"/Z/SHARED-ADMIN/read me.txt",
+		"/Z/Staff/Staff Home/Ian.Rigby/Documents/win 7 kms key .txt",
+		"/C/Users/ben.dixon/Videos/PE Footage - Copy/DVD_RTAV/VR_MANGR.BUP",
+		"/C/Users/ben.dixon/Videos/PE Footage - Copy/DVD_RTAV/VR_MANGR.IFO",
+		"/C/Users/ben.dixon/Dropbox/Apps/Voice Record Pro/20141017-124338.mp4.meta.txt",
+		"/C/Users/ben.dixon/Dropbox/Apps/Voice Record Pro/20141016-153721.mp4.meta.txt",
+		"/X/recipientfilter.txt",
+		"/Z/Tech/ParentPay/Updating ParentPay",
+		"//borasvr-sims/e$/parentpayexport.xml",
+		"/Y/Program Files/salamander/maps/staffLeaver.xml",
+		"/Y/Program Files/salamander/workflows/staff.xoml",
+		"/Y/Program Files/salamander/staffTT.xml",
+		"/Y/Program Files/salamander/Salamander.Host.exe.config",
+		"/Y/Program Files/salamander/pupil.cmd",
+		"/C/Users/ben.dixon/Documents/allstaff.txt",
+		"/C/ReportOutput.xml",
+		"//borasvr-mgmt1/sources/Applications/BORA Applications/SIMS Discover Summer 2014/disc.bat",
+		"/C/Users/ben.dixon/AppData/Local/Temp/MSI4ed24.LOG",
+		"/C/Windows/setuperr.log",
+		"//borasvr-mgmt1/d$/PE-DESIGN Lite/setup.ini",
+		"//borasvr-mgmt1/d$/PE-DESIGN Lite/setup.log",
+		"/H/Eula.txt",
+		"/Y/Salamander/logs/activeDirectory20140707.log",
+		"/Y/Salamander/logs/activeDirectory20140728.log",
+		"/H/test.jpg",
+		"/H/dirclean.ps1",
+		"/H/test.txt",
+		"/H/exams.ps1",
+		"/H/runtitled.py",
+		"/H/untitled.py",
+		"/H/test.py",
+		"/Y/Salamander/logs/activeDirectory20140704.log",
+		"/Y/Salamander/logs/activeDirectory20140703.log",
+		"/Z/Staff/Staff Home/Mary.Dixon/test.txt",
+		"/Z/Staff/Staff Home/Ben.Dixon/Library/Preferences/com.apple.dock.plist",
+		"/F/Unit 5 p4 ciara.docx",
+		"/C/Users/ben.dixon/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/ben.dixon/Documents/WindowsPowerShell/Microsoft.PowerShell_profile.ps1",
+		"/Z/Students/Student Home/EXAM/deldoc.bat",
+		"/Z/XMA/Documentation/Printers/printer ips.txt",
+		"/C/Users/ben.dixon/Documents/AutoRecovery save of Document1.asd",
+		"/C/Users/ben.dixon/Dropbox/.dropbox",
+		"/Y/Salamander/logs/activeDirectory20140512.log",
+		"/Y/Salamander/logs/activeDirectory20140425.log",
+		"/Y/Salamander/logs/activeDirectory20140429.log",
+		"/Y/Salamander/logs/activeDirectory20140428.log",
+		"/Y/Salamander/logs/activeDirectory20140501.log",
+		"/Y/Salamander/logs/activeDirectory20140212.log",
+		"/Y/Salamander/logs/activeDirectory20140504.log",
+		"/Y/Salamander/logs/activeDirectory20140503.log",
+		"/Y/Salamander/logs/activeDirectory20140422.log",
+		"/C/Program Files (x86)/Impero Solutions Ltd/Impero Client/Exclude.txt",
+		"/Y/Salamander/logs/activeDirectory20140420.log",
+		"/Y/Salamander/logs/activeDirectory20140419.log",
+		"/Y/Salamander/logs/activeDirectory20140418.log",
+		"/Y/Program Files/salamander/maps/saveAccount.xml",
+		"/Y/Salamander/logs/activeDirectory20140421.log",
+		"/C/Program Files (x86)/SIMS/SIMS .net/SIMSLoad.ini",
+		"/C/Program Files (x86)/SIMS/SIMS .net/SIMSAMPARKSetup.log",
+		"/C/Program Files (x86)/SIMS/SIMS .net/SIMSApplicationSetup.log",
+		"/C/Program Files (x86)/SIMS/SIMS .net/SIMSManualSetup.log",
+		"/C/Windows/SIMS.INI"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\s*^",
+			"Group",
+			"\\s*^",
+			"gayle",
+			"horvath",
+			"mahm",
+			"csv",
+			"staffmember.c",
+			"staffmember"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\n",
+			"",
+			"\\n",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "about_asserts.exs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 922,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Elixir/Syntaxes/Elixir.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 146.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Elixir/elixir-mix-test.sublime-build",
+	"project": "elixir-koans.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

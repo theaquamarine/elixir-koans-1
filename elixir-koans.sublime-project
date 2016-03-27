@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+    "build_systems":
+    [
+        {
+            "name": "Mix Learn",
+            "shell_cmd": "mix learn"
+        }
+    ]
+}
