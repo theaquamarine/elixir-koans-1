@@ -9,7 +9,10 @@
     [
         {
             "name": "Mix Learn",
-            "shell_cmd": "mix learn"
+            "shell_cmd": "mix learn",
+            /*  add target and syntax */
+            "target": "ansi_color_build",
+            "syntax": "Packages/ANSIescape/ANSI.tmLanguage"
         }
     ]
 }
